@@ -14,3 +14,6 @@
   * Integration With Legal Resources: Connect to publicly available legal databases and resources to ensure up-to-date and accurate legal information
   * Legal Expert Consulation: Enable users to seek advice from legal experts through chat or video/conferencing 
 ### Team Name : 240 wpm
+
+
+![alt text](https://drive.google.com/file/d/1yvAyvsPWVmnuaMS8QDHXJQWjr-XGYy_I/view?usp=sharing)
