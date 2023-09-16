@@ -1,8 +1,10 @@
 # AI-Powered Legal Assistant 
 
 ## Idea Details:
-      Our Solution aims to create an AI-powered Legal Documentation Assistant,designed to simplify the legal documentation process for individuals and small buisnesses in India.
-      It uses advanced Machine Learning and Natural Language Processing(NLP) techniques to automatically draft legal documents in plain language,provide easy-to-understand explanations,and offer customization  option
+      Our Solution aims to create an AI-powered Legal Documentation Assistant,
+      designed to simplify the legal documentation process for individuals and small buisnesses in India.
+      It uses advanced Machine Learning and Natural Language Processing(NLP) techniques to automatically 
+      draft legal documents in plain language,provide easy-to-understand explanations,and offer customization  option
 ### Approach to include Features on Platform:
 
   * Uer Friendly Interface: A user friendly web application for inputting relevant information using modern web technologies(e.g React)
