@@ -13,6 +13,7 @@
   * Customization Options:Allow users to customer documents based on their specific needs and preferences.
   * Integration With Legal Resources: Connect to publicly available legal databases and resources to ensure up-to-date and accurate legal information
   * Legal Expert Consulation: Enable users to seek advice from legal experts through chat or video/conferencing 
+![usecase](https://github.com/MOHINI1403/sih-round-2/assets/97459528/e3925c9b-67df-471c-a1b6-c204a5deb745)
 ### Team Name : 240 wpm
 
 
