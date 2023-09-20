@@ -1,5 +1,7 @@
 # AI-Powered Legal Assistant 
 
+## Figma Link:
+[Design](https://www.figma.com/file/NYmFevvcHEoL8NHzW3uBt1/Salahkaar?type=design&node-id=0-1&mode=design&t=H04ApEmVPOMTYbaR-0)
 ## Idea Details:
       Our Solution aims to create an AI-powered Legal Documentation Assistant,
       designed to simplify the legal documentation process for individuals and small buisnesses in India.
