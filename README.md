@@ -1,5 +1,7 @@
 # AI-Powered Legal Assistant 
 
+## Demo Video
+[Link](https://drive.google.com/file/d/1qHqQU1cUm0vIrkFeJ-4cy92IYUm4uOlr/view?usp=sharing)
 ## Figma Link:
 [Design](https://www.figma.com/file/NYmFevvcHEoL8NHzW3uBt1/Salahkaar?type=design&node-id=0-1&mode=design&t=H04ApEmVPOMTYbaR-0)
 ## Idea Details:
